@@ -1,7 +1,10 @@
-# Xspring
-Make Respring on iOS by using bug...
-It should be work on iOS 11.x.
+# JailbreakMe1131
+Electra Jailbreak without Computer.
+It should be work on iOS 11.2-11.3.1, and used with multipath exploit.
+
+You can go website 
+https://xsf1re.github.io/jbme1131
 
 //Tested 
-iPhone 6S on iOS 11.2.2
-iPad Air 1th generation on iOS 11.2.2, iOS 11.2.5
+iPhone 6S on iOS 11.3.1
+
